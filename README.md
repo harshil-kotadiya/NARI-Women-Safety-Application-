@@ -1,7 +1,6 @@
 # NARI-Women-Safety-Application- 
 
 # PRAVEG Hackathon Nirma University
-![1](https://user-images.githubusercontent.com/85783343/195533735-95a4fe58-13ad-46e6-8253-5b6b0651efba.png)
 ![2](https://user-images.githubusercontent.com/85783343/195533760-b3e4556c-2f51-44a5-a09c-03d347584ae1.png)
 ![3](https://user-images.githubusercontent.com/85783343/195533779-1409e16f-39ae-46d3-92ae-aa5f3930edfe.png)
 
